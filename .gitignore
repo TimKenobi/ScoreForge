@@ -100,3 +100,6 @@ models/
 *.onnx
 *.pb
 *.h5
+
+# GitHub Actions/Agents (may contain internal references)
+.github/
